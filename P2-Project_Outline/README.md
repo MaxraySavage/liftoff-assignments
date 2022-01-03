@@ -19,6 +19,5 @@ An event will have a number of attendees as well as their respective availabilit
 * Bootstrap
 
 ## What I'll Have to Learn
-How to build complext businees logic into a Spring Boot aplication. Handling different kinds of authentication.
-
-I'll need to learn how integrate React with Spring Boot if that is the route I choose to go down.
+How to build complex businees logic into a Spring Boot aplication. 
+Handling different kinds of authentication.
