@@ -1,18 +1,24 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+VennMe is a tool for finding common meeting times for groups of students to study!
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+## Overview
+My project will help groups of people find common times to meet, a process that can be very frustrating! 
 
-## Submission Instructions
+An event will have a number of attendees as well as their respective availability.
+## Features
+* Users will be able to create events that have a window of time in which they might occur, a description and a privacy setting
+* Authenticated users will be able to edit events that they have created
+* Users will be able to submit their availability to a particular event
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+
+## Technologies
+* MySQL
+* Spring Boot
+* Java
+* Thymeleaf
+* Bootstrap
+
+## What I'll Have to Learn
+How to build complext businees logic into a Spring Boot aplication. Handling different kinds of authentication.
+
+I'll need to learn how integrate React with Spring Boot if that is the route I choose to go down.
