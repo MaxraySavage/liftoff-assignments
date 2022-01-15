@@ -16,4 +16,4 @@ https://trello.com/b/YHBcnb23/venntime-project-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/MaxraySavage/VennTime
